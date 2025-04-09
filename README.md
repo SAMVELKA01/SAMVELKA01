@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+| Title         | Designation                                         |
+|---------------|-----------------------------------------------------|
+| Name          | Kakou Samuel Désiré                                 |
+| Country       | Côte d’Ivoire (Ivory Coast)                         |
